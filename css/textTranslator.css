@@ -1,0 +1,47 @@
+/* Text Translator */
+
+.main {
+    border: 4px solid #ffffff;
+}
+
+.main label {
+    color: #ffffff;
+    display: block;
+    padding: 15px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.main input {
+    color: #0ce6f2;
+    display: block;
+    padding: 15px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.main button {
+    color: #ffffff;
+    display: block;
+    padding: 20px;
+    text-align: center;
+    margin: 30px auto;
+    width: 25%;
+    background: #252446;
+}
+
+.main h1 {
+    color: #ffffff;
+    display: block;
+    padding: 15px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+/* END Text Translator */

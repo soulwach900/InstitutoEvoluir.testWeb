@@ -1,0 +1,29 @@
+/* global */
+
+body {
+    background: #201533;
+}
+
+.main a {
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.actives a {
+    font-weight: bold;
+    color : #ffffff;
+    font-size: 20px;
+}
+
+.actives a:hover {
+    text-decoration: underline;
+    color: #0ce6f2;
+}
+
+.actives li:hover {
+    text-decoration: underline;
+    color: #0ce6f2;
+}
+
+/* END global */
